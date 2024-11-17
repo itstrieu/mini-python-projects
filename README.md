@@ -9,5 +9,6 @@ This repository reflects my commitment to learning through building. It document
 
 This repository contains multiple small projects:
 - **Project 1**: Real-Time Weather Analysis Tool
+- **Project 2**: Color-Based Object Detection
 
 Each project has its own directory with specific files and a README.md.
