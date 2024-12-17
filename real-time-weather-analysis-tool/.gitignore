@@ -1,6 +1,0 @@
-# Python Gitignore
-__pycache__/
-*.py[cod]
-*.so
-.env
-.venv
